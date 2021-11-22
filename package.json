@@ -1,0 +1,28 @@
+{
+  "name": "goit-js-hw-09-webpack-2nd-version",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerhiiLytviak/goit-js-hw-09-webpack-2nd-version.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerhiiLytviak/goit-js-hw-09-webpack-2nd-version/issues"
+  },
+  "homepage": "https://github.com/SerhiiLytviak/goit-js-hw-09-webpack-2nd-version#readme",
+  "dependencies": {
+    "joi": "^17.4.2",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
